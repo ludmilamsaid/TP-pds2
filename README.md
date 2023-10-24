@@ -2,7 +2,7 @@
 # Sistema de Gerenciamento de Projetos (Estilo Trello/Notion)
 
 ##  Apresentação do Projeto: 
-O presente projeto tem o objetivo de desenvolver um sistema que auxilie os usuários na criação, organização e gerenciamento de projetos e tarefas, com um funcionamento semelhante ao Trello /Notion. Um dos maiores desafios das pessoas nos últimos anos é a organização de todas as tarefas do seu dia a dia, seja atividades pessoais ou profissionais. Nesse sentido, o projeto foi criado como uma forma  de auxiliar estudantes, equipes de trabalho, e qualquer indivíduo que deseja melhorar a produtividade e a organização de suas atividades.
+O presente projeto tem o objetivo de desenvolver um sistema que auxilie os usuários na criação, organização e gerenciamento de projetos e tarefas, com um funcionamento semelhante ao Trello/Notion. Um dos maiores desafios das pessoas nos últimos anos é a organização de todas as tarefas do seu dia a dia, seja atividades pessoais ou profissionais. Nesse sentido, o projeto foi criado como uma forma  de auxiliar estudantes, equipes de trabalho e qualquer indivíduo que deseja melhorar a produtividade e a organização de suas atividades.
 
 ## Visão Geral da Solução:
 Sendo assim, o sistema X facilitará a vida de seus usuários 
@@ -51,19 +51,19 @@ Projetos (vector<Project>): projetos associados ao usuário
 
 
 ## Pré-Requisitos
- Compilador C++
-Sistema Operacional compatível com c++
-## Instruções de instalação
+Compilador C++
+Sistema Operacional compatível com C++
 
+## Instruções de instalação
 Clone o repositório: ``
 Navegue até o diretório do projeto: cd TP-pds2
 compile o código-fonte: `g++ -o gerenciador-tarefas main.cpp`
 Execute o programa: `/.gerenciador-tarefas`
  
 ## Instruções de Uso
-1-Primeiro o usuário será direcionado para a página de criar um login, no qual ele vai criar um login e uma senha
-2-Assim que você criar  o login você será direcionado para a página de efetuar login, e se sua autenticação for válida, a página de projetos será aberta
-3-Na página de projetos você terá a opção de excluir, editar e criar um projeto. e Além disso, caso você selecione um projeto, as tarefas serão abertas
-4-Na página de tarefas você poderá, assim como projetos, excluir criar, editar uma tarefa
+1-Primeiro o usuário será direcionado para a página de criar um login, no qual ele vai criar um login e uma senha;
+2-Assim que o login for criado, o usuário será direcionado para a página de efetuar login e, se a autenticação for válida, a página de projetos será aberta;
+3-Na página de projetos o usuário terá a opção de excluir, editar e criar um projeto. Além disso, caso ele selecione um projeto, as tarefas serão abertas;
+4-Na página de tarefas, o usuário poderá, assim como projetos, excluir, criar ou editar uma tarefa.
 
 ## Principais Dificuldades
